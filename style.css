@@ -1,0 +1,60 @@
+.navbar {
+  background-color: green;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: yellowgreen;
+}
+.about {
+  background-color: yellowgreen;
+}
+#project {
+  background-color: yellowgreen;
+}
+.bar .nilai {
+  padding-top: 0;
+  height: fit-content;
+  background-color: yellowgreen;
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.html {
+  width: 50%;
+}
+.css {
+  width: 50%;
+}
+.figma {
+  width: 50%;
+}
+.touring {
+  width: 80%;
+}
+.photoshop {
+  width: 50%;
+}
+.pubg {
+  width: 65%;
+}
+
+section {
+  padding-top: 3rem;
+}
+.gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0%;
+}
+#gallery {
+  background-color: yellowgreen;
+}
+#contact {
+  background-color: white;
+  width: 100%;
+}
+.footer {
+  background-color: green;
+}
